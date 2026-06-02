@@ -57,7 +57,7 @@ A collection of interactive React UI components built as part of Module 6. The a
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/mreyes-mxr/cursor-module-6.git)
 cd module-6
 
 # 2. Install dependencies
