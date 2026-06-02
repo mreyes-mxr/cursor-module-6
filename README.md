@@ -57,7 +57,7 @@ A collection of interactive React UI components built as part of Module 6. The a
 
 ```bash
 # 1. Clone the repository
-git clone [<repository-url>](https://github.com/mreyes-mxr/cursor-module-6.git)
+git clone https://github.com/mreyes-mxr/cursor-module-6.git
 cd module-6
 
 # 2. Install dependencies
@@ -109,6 +109,8 @@ src/
 ## E2E Testing
 
 This project uses [Playwright](https://playwright.dev) for end-to-end testing. Tests cover complete user workflows, accessibility requirements, responsive design, and error/edge-case handling across all 7 routes.
+
+*Latest report can be found inside playright-report folder* as an example of the output.
 
 ### Test Folder Structure
 
